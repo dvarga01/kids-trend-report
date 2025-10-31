@@ -1,0 +1,104 @@
+{
+  "edition": {
+    "week": "2024-10-28",
+    "published": true,
+    "publishDate": "2024-10-28T09:00:00Z",
+    "nextEditionDays": 7
+  },
+  "cards": [
+    {
+      "id": 1,
+      "title": "\"Can I Have Robux?\" Is the New \"Can I Have Candy?\"",
+      "content": "It's surprisingly common: kids asking adults for Robux, Roblox's digital currency. There's an entire genre of TikTok videos where adults commiserate about this shared experience. This isn't just about games anymore—it's about digital economy literacy starting younger than ever.",
+      "whyItMatters": "These requests are actually opportunities. When kids ask for digital currency, they're opening the door to conversations about money, value, and decision-making in virtual spaces before they fully understand real-world finances.",
+      "stat": null
+    },
+    {
+      "id": 2,
+      "title": "From Backpacks to Black Markets: The Nike Elite Trend",
+      "content": "In 2024, Nike Elite backpacks went viral on TikTok. But the real story? Kids created an underground economy buying and selling—often stolen—zipper pulls. Schools across Arizona, Nebraska, and New York reported altercations and disruptions tied to this trend.",
+      "whyItMatters": "This isn't just a quirky trend. It shows how viral moments can quickly escalate into real-world problems when kids don't have the frameworks to navigate digital influence and peer pressure.",
+      "stat": null
+    },
+    {
+      "id": 3,
+      "title": "8-Year-Olds Spend 2+ Hours Per Week Shopping Online",
+      "content": "According to WebPurify, children ages 8 and younger average 2.3 hours per week shopping online. If you've heard kids talking about luxury colognes or Drunk Elephant skincare products, you're witnessing this emerging behavior firsthand.",
+      "whyItMatters": "Kids are forming consumer habits and brand relationships before they can critically evaluate marketing. Early conversations about media literacy and spending can set healthier patterns.",
+      "stat": "2.3 hours/week"
+    },
+    {
+      "id": 4,
+      "title": "\"It's Like Class Society... But in a Game\"",
+      "content": "Gaming platforms like Roblox and Fortnite deliberately design features that link identity and peer acceptance to in-app purchases. As one 14-year-old put it: \"If you don't buy anything, you're at the lowest end. The people with the best items everyone wants are the highest.\"",
+      "whyItMatters": "Digital currencies are turning self-expression and belonging into a commodity. Kids need help understanding how these systems work and that their worth isn't determined by virtual items.",
+      "stat": null
+    },
+    {
+      "id": 5,
+      "title": "Kids Are 3× More Likely to Fall for Scams Than Millennials",
+      "content": "Despite being generally aware of online risks, under-18s are three times more likely to fall for scams than their millennial parents (TrustPlay report). The most troubling finding? 65% of gamers identified red flags and proceeded anyway.",
+      "whyItMatters": "FOMO and social pressures can short-circuit good judgment across all ages. Teaching kids to recognize AND act on red flags is critical, but it requires addressing the emotional drivers behind risky decisions.",
+      "stat": "3× more likely & 65% ignored red flags"
+    }
+  ],
+  "activities": [
+    {
+      "id": "would-you-rather",
+      "type": "would-you-rather",
+      "title": "Digital Money Choices",
+      "estimatedTime": "5 min",
+      "description": "Explore values around digital spending",
+      "prompts": [
+        {
+          "optionA": "Have unlimited Robux",
+          "optionB": "Have $100 real money"
+        },
+        {
+          "optionA": "Buy the coolest digital outfit in a game",
+          "optionB": "Save for something you can actually touch"
+        },
+        {
+          "optionA": "Have 1000 followers who don't really know you",
+          "optionB": "Have 10 friends who really care"
+        },
+        {
+          "optionA": "Look rich in games but not in real life",
+          "optionB": "Look basic in games but be comfortable IRL"
+        }
+      ]
+    },
+    {
+      "id": "conversation-starters",
+      "type": "conversation-starter",
+      "title": "Money & Gaming Talk",
+      "estimatedTime": "10 min",
+      "description": "Discuss digital economy together",
+      "prompts": [
+        "If you could design a game, would you make people pay for cool items or let everyone have them for free? Why?",
+        "Have you ever felt left out because you didn't have something in a game? What was that like?",
+        "What's the difference between spending real money and digital money? Does one feel more 'real' to you?",
+        "Have you ever seen someone try to scam players in a game? What happened?",
+        "Would you rather have 1000 digital items or 10 things you really care about? Why?",
+        "If you had $20, would you spend it on Robux or something else? What would make you decide?",
+        "Do you think games are more fun when you have to earn items or when you can buy them right away?"
+      ]
+    },
+    {
+      "id": "discussion-timer",
+      "type": "timer",
+      "title": "10-Minute Deep Dive",
+      "estimatedTime": "10 min",
+      "description": "Focused conversation about their digital world",
+      "instructions": "Set both phones aside. Use these prompts to guide 10 minutes of conversation about their online experiences. Let them lead the conversation.",
+      "duration": 600,
+      "prompts": [
+        "Tell me about something cool that happened in your game this week",
+        "How do you decide what's worth spending money on (real or digital)?",
+        "Have you ever regretted a purchase—either in a game or in real life?",
+        "Do your friends talk about what they have in games? How does that make you feel?",
+        "If you could change one thing about how games sell stuff, what would it be?"
+      ]
+    }
+  ]
+}
